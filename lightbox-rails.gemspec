@@ -15,5 +15,5 @@ Gem::Specification.new do |gem|
     MIT-LICENSE Rakefile README.md lightbox-rails.gemspec
   ]
 
-  gem.add_dependency "rails", "~> 3.2.8"
+  gem.add_dependency "rails", "> 3.2.8"
 end
